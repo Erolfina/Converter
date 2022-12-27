@@ -1,0 +1,14 @@
+{
+  "images" : [
+    {
+      "filename" : "favpng_thermometer-temperature-cloud-super-sculpey-clay-weather (1).png",
+      "idiom" : "universal",
+      "platform" : "ios",
+      "size" : "1024x1024"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
